@@ -8,8 +8,19 @@
   <li> 🧠 I am currently learning UI design in Jetpack Compose</li>
   <li> 🧩 I love action books 📚, rock music 🎸, arcade games 🕹️, and piano 🎹</li>
 </ul>
-<h2 align="left">🧰 My skills</h2>
-<h3 align="left"> Programming languages</h3>
+<h2 align="Left">🧰 My technology stack</h2>
+<div align="left">
+    <h3> Languages</h3>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,cs,html,css,javascript,r,ts&perline=6" />
+    <h3> Frameworks & tools</h3>
+    <img src="https://skillicons.dev/icons?i=spring,angular,firebase,unity,unreal,figma,postman,gradle,maven,git,github&perline=6"/>
+    <h3> IDEs </h3>
+    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,idea,pycharm,eclipse&perline=6"/>
+    <h3> Database Management</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,mongo"/>
+</div>
+
+
 
 
 
