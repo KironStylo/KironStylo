@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&pause=1000&color=F7F7F7&background=37CCFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hello+there!+%F0%9F%91%8B;I'm+Santiago+Gallo+Jaimes;Welcome+to+my+Github+Page" alt="Typing SVG" /></a>
-  <p> I'm a passionate systems engineer with experience in mobile, and videogame development</p>
+  <p> I'm a passionate systems engineer with experience in software development for web and mobile apps as well as games</p>
 </div>
 <div align="center">
   <h2>About me 🌟</h2>
